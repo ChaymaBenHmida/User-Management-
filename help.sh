@@ -1,0 +1,4 @@
+
+HELP(){
+	cat help.txt
+}

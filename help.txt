@@ -1,0 +1,18 @@
+HELLO 
+Notre application a pour but la gestion des utilisateurs 
+  Les Options :
+
+	-t	lancer la commande top
+	-p	lancer la commande ps -aux
+	-r	afficher uniquement les processus lance par l'utilisateur root
+	-u	afficher uniquement les n processus  les plus gourmands en terme de cpu
+	-h	help
+	-g	afficher un menu graphique
+	-m	afficher un menu textuel
+	-v	afficher la version et les noms des auteurs
+	-s	sauvegrader les informations les plus pertinentes dans un fichier
+	-o	afficher les informations les plus pertinentes dans un fichier
+	-f	afficher les lignes contenants le mot cle a partir d'un fichier
+
+   Exit :
+	Retourne succes a moins qu une erreur d'ecriture se produit
